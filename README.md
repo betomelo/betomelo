@@ -8,7 +8,7 @@ healthcare, education, fashion, and design.
 
 📌 I have worked on on Data visualization projects using **Python** and **R** and web interfaces using **Adobe products**, **HTML**, **Java** and **FIGMA**
 
-📌 I'm Currently diving into building TAI.EDUCATION an AI Chatbot that will help teach, tutor, and work as a teacher aide for teachers servicing students K-12
+📌 I'm Currently diving into building TAI.EDUCATION an AI Chatbot that will help teach, tutor, and work as a teacher aide for teachers, servicing students K-12
 and learning ALOT along the way. 
 
 ---
