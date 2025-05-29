@@ -1,6 +1,7 @@
 ## Hi there 👋 
 
 🧍‍♂️ My name is **Beto Melo** and I'm a..
+
 🎓 Data Science and Business Student at Northeastern University  
 ❤️‍🔥 I am passionate about learning how we can use data to give us insights, but specifically I am passionate about the gaps in data and research in 
 healthcare, education, fashion, and design.
