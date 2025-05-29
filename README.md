@@ -15,7 +15,7 @@ and learning ALOT along the way.
 
 ### 📍 About Me
 - 🌍 Based in **Boston** during school and **Miami** when home.
-- ✉️ To Reach me **melosolano.h@northeastern.edu**
+- ✉️ Reach me @ **melosolano.h@northeastern.edu**
 - 🤝 Open to: Anything, hit me up always looking for people to collaborate with.  
 
 ---
